@@ -1,0 +1,1 @@
+SELECT distinct customer,market,region FROM gdb023.dim_customer Where customer  = "Atliq Exclusive" and region = "APAC" ; 
